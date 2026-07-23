@@ -62,26 +62,29 @@ The raw export may contain private account data, deleted posts, direct messages,
    - retweets
    - quote/linked posts
    - media posts
-5. Generate a reviewable local staging export.
-6. Review inclusion rules before committing any post archive to Git.
-7. Publish only sanitized records into year/theme folders.
+5. Generate a sanitized review export for searching, theme tagging, and future linking.
+6. Publish the sanitized JSONL and CSV so the public archive contains the actual posts, not only the migration plan.
+7. Generate year-organized Markdown pages for readable chronology.
 8. Link selected public fragments to essays and reading pages over time.
 
-## Staging Bundle
+## Published Bundle
 
-The first generated artifact should be local review material:
+The generated public artifacts are:
 
 ```text
-archive/twitter/staging/
-  README.md
-  tweets.sanitized.jsonl
-  review.csv
-  media-map.json
-  excluded-summary.json
-  export-manifest.json
+archive/twitter/
+  index.md
+  2025/README.md
+  2026/README.md
+  staging/
+    tweets.sanitized.jsonl
+    review.csv
+    media-map.json
+    excluded-summary.json
+    export-manifest.json
 ```
 
-The staging folder is ignored by Git except for its README. Generated exports are for review before publication.
+The `staging/` name reflects review workflow, not secrecy. These files are intentionally committed because they are sanitized active public posts and supporting metadata. Deleted posts, DMs, account/security files, IP logs, contacts, ads, likes, followers, and following records remain excluded.
 
 ## Canonical Distinction
 

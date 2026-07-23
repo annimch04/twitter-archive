@@ -1,10 +1,10 @@
 # Twitter / X Public Post Archive
 
-This directory is for the eventual public archive of Anni McHenry's exported Twitter/X posts.
+This directory contains a sanitized public archive of Anni McHenry's exported Twitter/X posts.
 
-The archive should be treated as primary source material, not as public canon.
+The archive is primary source material, not public canon.
 
-Posts preserved here are contemporaneous artifacts. They are not retroactively edited into a coherent narrative, and they should not be read as though every post represents the current or final form of an idea. Essays, edited writing, Git history, and fieldlight.com reading pages remain the canonical expression of developed work.
+Posts preserved here are contemporaneous artifacts. They are not retroactively edited into a coherent narrative, and they should not be read as though every post represents the current or final form of an idea. Essays, edited writing, Git history, recordings, proofs, and fieldlight.com reading pages remain the canonical expression of developed work.
 
 ## Source Principle
 
@@ -14,20 +14,38 @@ The purpose is to answer an increasingly important question in an AI-mediated pu
 
 > Where did this idea come from, and how did it become what it is?
 
-## Planned Shape
+## Published Shape
 
-The eventual public archive should be organized by year and theme:
+The public archive is organized as both a reviewable machine-readable export and a human-readable year archive:
 
 ```text
 archive/twitter/
   README.md
   MIGRATION_PLAN.md
+  index.md
   staging/
+    tweets.sanitized.jsonl
+    review.csv
+    media-map.json
+    excluded-summary.json
+    export-manifest.json
   2025/
+    README.md
   2026/
+    README.md
 ```
 
-Year folders should contain sanitized public posts only. Deleted posts, private messages, ad data, account/security data, contacts, IP logs, and device records are excluded by default.
+Year folders contain sanitized active public posts only. Deleted posts, private messages, ad data, account/security data, contacts, IP logs, and device records are excluded by policy.
+
+## Public Artifacts
+
+- `index.md`: entry point into the year-organized archive.
+- `2025/README.md` and `2026/README.md`: readable chronological exports grouped by month.
+- `staging/tweets.sanitized.jsonl`: full sanitized active-post feed for tools, search, and future linking.
+- `staging/review.csv`: review sheet for theme assignment, linked work, and publication decisions.
+- `staging/media-map.json`: media references without copying private archive internals into the reading surface.
+- `staging/excluded-summary.json`: policy record of what was intentionally left out.
+- `staging/export-manifest.json`: counts and source metadata for the export run.
 
 ## Relationship to Essays
 

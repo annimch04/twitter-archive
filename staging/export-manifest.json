@@ -1,0 +1,37 @@
+{
+  "generated_at_utc": "2026-07-23T02:24:44.973642+00:00",
+  "source": "Twitter/X archive data/tweets.js only",
+  "account_username": "SayitSalty",
+  "active_tweets": 2948,
+  "kind_counts": {
+    "retweet": 94,
+    "original": 1194,
+    "reply": 1370,
+    "self_thread_reply": 290
+  },
+  "year_counts": {
+    "2025": 1385,
+    "2026": 1563
+  },
+  "media_references": 275,
+  "excluded_by_policy": [
+    "data/deleted-tweets.js",
+    "data/deleted-tweet-headers.js",
+    "data/deleted_tweets_media/",
+    "data/direct-messages.js",
+    "data/direct-messages-group.js",
+    "data/direct_messages_media/",
+    "data/direct_messages_group_media/",
+    "data/ip-audit.js",
+    "data/contact.js",
+    "data/device-token.js",
+    "data/account-creation-ip.js",
+    "data/phone-number.js",
+    "data/email-address-change.js",
+    "data/ad-*",
+    "data/like.js",
+    "data/follower.js",
+    "data/following.js"
+  ],
+  "canonical_note": "Public posts are archival fragments, not canonical essays."
+}

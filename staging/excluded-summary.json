@@ -1,0 +1,21 @@
+{
+  "excluded_by_policy": [
+    "data/deleted-tweets.js",
+    "data/deleted-tweet-headers.js",
+    "data/deleted_tweets_media/",
+    "data/direct-messages.js",
+    "data/direct-messages-group.js",
+    "data/direct_messages_media/",
+    "data/direct_messages_group_media/",
+    "data/ip-audit.js",
+    "data/contact.js",
+    "data/device-token.js",
+    "data/account-creation-ip.js",
+    "data/phone-number.js",
+    "data/email-address-change.js",
+    "data/ad-*",
+    "data/like.js",
+    "data/follower.js",
+    "data/following.js"
+  ]
+}
