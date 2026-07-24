@@ -91,3 +91,11 @@ The `staging/` name reflects review workflow, not secrecy. These files are inten
 Twitter/X posts are public fragments and historical records. They are not treated as final doctrine, current thinking, or edited essays.
 
 Published essays remain the canonical expression of developed ideas. The archive exists to preserve lineage.
+
+## Incremental Status
+
+The initial archive migration is complete. The first incremental milestone is implemented in `tools/twitter_sync.py`.
+
+It provides a dry-run-only path from a public-post collector batch to a local review bundle. It deduplicates against the 2,948-post baseline, preserves the archive-fragment distinction, and hard-rejects excluded private source classes.
+
+Live collection, approved publication, year-page regeneration, and daily scheduling remain separate later milestones.

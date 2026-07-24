@@ -23,6 +23,9 @@ archive/twitter/
   README.md
   MIGRATION_PLAN.md
   index.md
+  sync/
+    README.md
+    state.json
   staging/
     tweets.sanitized.jsonl
     review.csv
@@ -36,6 +39,18 @@ archive/twitter/
 ```
 
 Year folders contain sanitized active public posts only. Deleted posts, private messages, ad data, account/security data, contacts, IP logs, and device records are excluded by policy.
+
+## Incremental Sync
+
+The initial archive is now also the baseline for a review-first incremental process.
+
+- `sync/state.json` records the current public cursor.
+- `tools/twitter_sync.py` compares a new public-post batch with that cursor and the full sanitized baseline.
+- New posts are written to a local review bundle under `.twitter-sync/`.
+- The dry-run command cannot mutate the published archive.
+- Direct messages and other private or excluded sources are rejected before normalization.
+
+See [`sync/README.md`](sync/README.md) for the command, collector contract, privacy boundary, and next milestones.
 
 ## Public Artifacts
 

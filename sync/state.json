@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "account_username": "SayitSalty",
+  "source_manifest": "archive/twitter/staging/export-manifest.json",
+  "post_count": 2948,
+  "last_archived_post_id": "2079770094838673885",
+  "last_archived_at_utc": "2026-07-22T03:26:45+00:00",
+  "publication_mode": "human_review_required",
+  "private_data_policy": "excluded_by_architecture"
+}

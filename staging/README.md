@@ -23,3 +23,12 @@ Run from the repository root:
 ```bash
 python3 tools/twitter_archive_export.py /path/to/twitter-archive-folder
 ```
+
+For incremental review after this baseline, use:
+
+```bash
+python3 tools/twitter_sync.py dry-run \
+  --input /path/to/public-post-batch.json
+```
+
+The incremental command is dry-run only and writes to the Git-ignored `.twitter-sync/` directory. It does not change these published staging files.
