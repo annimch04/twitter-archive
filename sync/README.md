@@ -22,8 +22,9 @@ published archival fragments
 
 ## Current Milestone
 
-`tools/twitter_sync.py` implements the first executable milestone:
+`tools/twitter_sync.py` implements the executable collection and review milestone:
 
+- collects authored public posts from the official X API after the saved archive cursor;
 - reads a public-post batch, canonical JSONL, or Twitter archive `data/tweets.js`;
 - rejects deleted-post, direct-message, account-security, IP, contact, device, ad, and social-graph sources;
 - compares post IDs with the published sanitized archive;
@@ -31,7 +32,7 @@ published archival fragments
 - writes a local review bundle;
 - never changes the published archive.
 
-This is a dry-run tool, not yet a publisher and not yet a live X collector.
+This is a live collector and dry-run reviewer. It is not a publisher.
 
 ## Commands
 
@@ -48,7 +49,19 @@ python3 tools/twitter_sync.py dry-run \
   --input /path/to/twitter-archive/data/tweets.js
 ```
 
-Review a future collector batch:
+Collect new public posts from X:
+
+```bash
+export X_BEARER_TOKEN='set-this-in-your-shell'
+python3 tools/twitter_sync.py collect
+```
+
+The command reads the baseline cursor from the sanitized archive and sends its
+last post ID as `since_id`. The token remains in the process environment and is
+never written to the repository or review bundle. X API access and reads may
+incur charges under the account's X API plan.
+
+Review another collector batch:
 
 ```bash
 python3 tools/twitter_sync.py dry-run \
@@ -72,7 +85,7 @@ A collector may provide a JSON list of public post objects, or this envelope:
 {
   "schema_version": 1,
   "source": {
-    "adapter": "future-official-api-or-browser-collector",
+    "adapter": "official-api-or-other-public-post-collector",
     "account_username": "SayitSalty",
     "collected_at_utc": "2026-07-23T00:00:00+00:00"
   },
@@ -99,7 +112,7 @@ These are not review categories. They are outside the architecture.
 
 ## Next Milestones
 
-1. Add a public-post collector adapter using the most stable permitted source available.
+1. Complete the first credentialed live collection and inspect the review bundle.
 2. Add a separate, explicit publish command that requires an approved review sheet.
 3. Regenerate year pages and manifests after approval.
 4. Run the collector on a daily schedule.
