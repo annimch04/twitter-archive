@@ -62,11 +62,20 @@ Then collect new public posts:
 ./tools/x_scrape.sh scrape
 ```
 
-The scraper reads the baseline cursor from the sanitized archive, uses only the
-already open `x.com/SayitSalty` Safari tab, and stops after it reaches that
-cursor. It does not create a second browser profile, initiate a new X login,
-read or export cookies, or request private X surfaces. No API account, bearer
-token, or per-post API payment is required.
+The scraper reads the baseline ID and timestamp from the sanitized archive,
+uses only the already open `x.com/SayitSalty` Safari tab, and stops after it
+reaches the exact cursor or verifies that multiple authored posts cross the
+saved timestamp boundary. The timestamp fallback accounts for X occasionally
+omitting an individual post from profile pagination. The saved post ID remains
+the inclusion filter.
+
+It does not create a second browser profile, initiate a new X login, read or
+export cookies, or request private X surfaces. No API account, bearer token, or
+per-post API payment is required.
+
+The collection fails closed if X requires login, reports a temporary limit, or
+stops loading before either boundary proof is reached. An incomplete interval is
+never presented as a successful review bundle.
 
 The Safari setting permits local Apple Events automation. The scraper narrows
 that capability to a tab whose URL contains `x.com/SayitSalty`; keep macOS
