@@ -26,6 +26,7 @@ published archival fragments
 
 - attaches to Anni's already trusted Safari session;
 - scrapes authored public posts after the saved archive cursor;
+- preserves visible reposts as a separate provisional observation stream;
 - reads a public-post batch, canonical JSONL, or Twitter archive `data/tweets.js`;
 - rejects deleted-post, direct-message, account-security, IP, contact, device, ad, and social-graph sources;
 - compares post IDs with the published sanitized archive;
@@ -67,8 +68,10 @@ uses only the already open `x.com/SayitSalty` Safari tab, and stops after it
 reaches the exact cursor or verifies that multiple authored posts cross the
 saved timestamp boundary. The timestamp fallback accounts for X occasionally
 omitting an individual post from profile pagination. Pinned and reposted cards
-are excluded from boundary detection because X can surface their older IDs at
-the top of the timeline. The saved post ID remains the inclusion filter.
+are excluded from authored-post boundary detection because X can surface their
+older IDs at the top of the timeline. Reposted cards are still preserved
+separately as provisional observations. The saved authored-post ID remains the
+inclusion filter.
 
 It does not create a second browser profile, initiate a new X login, read or
 export cookies, or request private X surfaces. No API account, bearer token, or
@@ -98,7 +101,9 @@ Review bundles are written under `.twitter-sync/`, which is intentionally ignore
 ```text
 README.md
 new-posts.jsonl
+repost-observations.jsonl
 review.csv
+repost-review.csv
 sync-report.json
 ```
 
@@ -108,17 +113,41 @@ A collector may provide a JSON list of public post objects, or this envelope:
 
 ```json
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "source": {
     "adapter": "trusted_safari_public_profile_scraper",
     "account_username": "SayitSalty",
     "collected_at_utc": "2026-07-23T00:00:00+00:00"
   },
-  "posts": []
+  "posts": [],
+  "repost_observations": []
 }
 ```
 
 Credentials, cookies, browser profiles, and raw service responses do not belong in this repository.
+
+## Repost Semantics
+
+Reposts are selected signal. Self-reposts are especially meaningful in this
+archive because they record recursive thinking: an idea returning to the public
+surface, repeating across time, or gathering new context.
+
+The downloaded official archive is the source of truth for exact repost event
+identity and timing. The public X profile does not expose a distinct event ID
+or event timestamp for a reposted card, so the Safari collector records only a
+provisional observation tied to the source post.
+
+Within the official export, original posts carry `self_repost_count` and
+`self_repost_event_ids` metadata. These fields make recurrence queryable at the
+post level. When truncated archive text could refer to more than one original,
+the event remains explicitly ambiguous instead of being silently assigned.
+
+That distinction is deliberate:
+
+- an official archive event may increment the canonical repost count;
+- a profile sighting can establish that a source post appeared as reposted;
+- seeing the same source post on later daily runs does not establish another
+  repost action and must not increment the canonical count.
 
 ## Privacy Boundary
 
@@ -137,10 +166,11 @@ These are not review categories. They are outside the architecture.
 
 ## Next Milestones
 
-1. Complete the first trusted-session scrape and inspect the review bundle.
+1. Complete the first trusted-session scrape and inspect authored posts and repost observations.
 2. Add a separate, explicit publish command that requires an approved review sheet.
-3. Regenerate year pages and manifests after approval.
-4. Run the collector on a daily schedule.
-5. Link archival fragments to essays by theme and provenance over time.
+3. Reconcile provisional repost observations against the next official archive export.
+4. Regenerate year pages and manifests after approval.
+5. Run the collector on a daily schedule.
+6. Link archival fragments and recurring self-reposts to essays by theme and provenance over time.
 
 The scheduler will automate collection and review preparation. It will not automate editorial authority.

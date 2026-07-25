@@ -20,6 +20,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2079770094838673885
+- `self_repost`: false
 
 > RT @hexesandspell: God forbid a girl be both a muse and a menace.
 
@@ -327,6 +328,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2079307293246513280
+- `self_repost`: true
 
 > RT @SayitSalty: power recognition is the new pattern recognition
 
@@ -338,6 +340,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2079303835424596472
+- `self_repost`: true
 
 > RT @SayitSalty: moms will tear your company apart with their bare hands, like a grizzly a solo camper in the backwoods in spring
 >
@@ -597,6 +600,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2078245744247513444
 - `media_references`: 1
+- `self_repost`: false
 
 > RT @X_ArtGallery: Jonathan Day - The Stream at the Edge of the Field https://t.co/XygRZyEO6D
 
@@ -1452,6 +1456,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2076291230770622811
 - `media_references`: 1
+- `self_repost`: false
 
 > RT @solisolsoli: https://t.co/TAPJRnp2GG
 
@@ -1509,6 +1514,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2076289286987460732
+- `self_repost`: false
 
 > RT @X_ArtGallery: Max Svabinsky - The Fruit Was Never an Apple, 1918 https://t.co/GWyIy5sSFw
 
@@ -1782,6 +1788,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: self_thread_reply
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2075647983475941711
+- `self_repost_count`: 1
 
 > moms will tear your company apart with their bare hands, like a grizzly a solo camper in the backwoods in spring
 >
@@ -2016,6 +2023,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2074254651315073237
+- `self_repost`: false
 
 > RT @KineticElle: Two things that make GPT basically unusable - in App as well as with API and OAuth.
 >
@@ -2990,6 +2998,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2072788903094890891
+- `self_repost`: false
 
 > RT @47fucb4r8c69323: I think what I love the most about open source is how punk rock the culture is.
 >
@@ -3184,6 +3193,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2072066958527205431
+- `self_repost`: true
 
 > RT @SayitSalty: V. Thread // Signal // Return
 >
@@ -3199,6 +3209,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2072066818441662592
+- `self_repost`: true
 
 > RT @SayitSalty: IV. Fruit // Color // Touch
 >
@@ -3331,6 +3342,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2071623338061971595
+- `self_repost`: false
 
 > RT @RobertGreene: Make a list of the people in your life who live with purpose. Prioritize spending more time with them.
 
@@ -3404,6 +3416,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2071307650751434876
+- `self_repost`: true
 
 > RT @SayitSalty: imagine you just wonder into the neuralink network wo an implant
 
@@ -3941,6 +3954,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2070348473904337076
+- `self_repost`: true
 
 > RT @SayitSalty: III. Body // Memory // Edge
 >
@@ -3979,6 +3993,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2070167533735330276
+- `self_repost`: false
 
 > RT @noMukh: if you can't avoid digital footprint, might as well leave heavy ones
 
@@ -4329,6 +4344,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: self_thread_reply
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2069446528146522621
+- `self_repost_count`: 1
 
 > power recognition is the new pattern recognition
 
@@ -4579,6 +4595,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2069100960698310675
 - `media_references`: 1
+- `self_repost`: false
 
 > RT @greenvibe: A small story of growth. https://t.co/noJXfV5OTg
 
@@ -4624,6 +4641,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2068945403244859503
+- `self_repost`: true
 
 > RT @SayitSalty: II. Woman // Mask // Inheritance
 >
@@ -4703,6 +4721,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2068918040448712850
 - `media_references`: 1
+- `self_repost`: false
 
 > RT @greenvibe: The life cycle of a cherry. 🍒 https://t.co/SLOAFI6Lrw
 
@@ -4798,6 +4817,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2068866121554358357
+- `self_repost`: true
 
 > RT @SayitSalty: I. Geometry // Spirit // Code
 >
@@ -5094,6 +5114,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2068374625457721798
+- `self_repost`: false
 
 > RT @raunaqss: @SoulShine3979 Speed is a vanity metric. Direction is what matters. A step in the right direction beats a sprint in the wrong…
 
@@ -5247,6 +5268,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2067365400254222525
+- `self_repost`: true
 
 > RT @SayitSalty: @tszzl If you’re building a world where humans don’t have original thoughts
 > you shouldn’t be in the position you’re in
@@ -5270,6 +5292,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: reply
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2067363281967124848
+- `self_repost_count`: 1
 
 > @tszzl If you’re building a world where humans don’t have original thoughts
 > you shouldn’t be in the position you’re in
@@ -5565,6 +5588,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2067050502261461309
+- `self_repost`: false
 
 > RT @hexesandspell: My lust for intellectual chemistry is eternal.
 
@@ -5588,6 +5612,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2066946252361572808
 - `expanded_urls`: 1
+- `self_repost`: true
 
 > RT @SayitSalty: https://github.com/annimch04/public-writing
 
@@ -5599,6 +5624,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2066946166957248974
+- `self_repost`: true
 
 > RT @SayitSalty: host your work—with provenance—on GitHub
 > GitHub pages for your website (owned domain)
@@ -5626,6 +5652,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2066925864680370313
 - `expanded_urls`: 1
+- `self_repost_count`: 1
 
 > https://github.com/annimch04/public-writing
 
@@ -5637,6 +5664,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: self_thread_reply
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2066925286059282534
+- `self_repost_count`: 1
 
 > host your work—with provenance—on GitHub
 > GitHub pages for your website (owned domain)
@@ -6124,6 +6152,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2065854790513434798
+- `self_repost`: true
 
 > RT @SayitSalty: couples who practice tantric mediation together
 > stay
@@ -6377,6 +6406,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2064555290289180901
+- `self_repost`: true
 
 > RT @SayitSalty: staring at the stars long enough to see them rearrange
 
@@ -7074,6 +7104,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2062973009145585746
+- `self_repost`: true
 
 > RT @SayitSalty: mathematicians as poets
 >
@@ -7515,6 +7546,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2061994196270223705
+- `self_repost`: false
 
 > RT @RobertGreene: In our culture we tend to equate thinking and intellectual powers with success and achievement.
 >
@@ -7853,6 +7885,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2060906491771797542
 - `media_references`: 2
+- `self_repost`: false
 
 > RT @RaceSonoma: Shades of speed. https://t.co/uJcw7UNSgI
 
@@ -10927,6 +10960,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2052559697774100727
+- `self_repost`: false
 
 > RT @xmuse_: The Roman empress Messalina, carved by French sculptor Eugène Cyrille Brunet and exhibited at the 1884 Salon. https://t.co/NyAp…
 
@@ -12927,6 +12961,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2049344219098300784
+- `self_repost`: true
 
 > RT @SayitSalty: First yes—
 > a date
@@ -12941,6 +12976,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: self_thread_reply
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2049344189905973417
+- `self_repost_count`: 1
 
 > First yes—
 > a date
@@ -13203,6 +13239,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2048965894139977785
+- `self_repost`: true
 
 > RT @SayitSalty: the one who cooks decides when you eat
 
@@ -13462,6 +13499,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2048429495003345385
+- `self_repost`: true
 
 > RT @SayitSalty: @sama I built a local first stack for governance behavior and cryptography. Two repos work together, sanctum &amp; fieldlight.…
 
@@ -13474,6 +13512,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2048429412266414421
 - `expanded_urls`: 1
+- `self_repost_count`: 1
 
 > @sama I built a local first stack for governance behavior and cryptography. Two repos work together, sanctum &amp; fieldlight. Check it out: https://github.com/annimch04/sanctum-zero/tree/main
 
@@ -13634,6 +13673,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2048373291195494817
+- `self_repost`: true
 
 > RT @SayitSalty: @sciencegirl if ur gonna be a bear be a grizzly
 
@@ -13841,6 +13881,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: original
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2048014135309504842
+- `self_repost_count`: 1
 
 > couples who practice tantric mediation together
 > stay
@@ -13977,6 +14018,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: original
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2047622097837703409
+- `self_repost_count`: 1
 
 > mathematicians as poets
 >
@@ -14745,6 +14787,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2043237952742928783
+- `self_repost`: true
 
 > RT @SayitSalty: @noMukh Maybe not where you were coming from but the eat the rich rhetoric is dangerous and out of control. What we need ar…
 
@@ -14756,6 +14799,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2043237941250580731
+- `self_repost`: true
 
 > RT @SayitSalty: @noMukh I’m no billionaire but I am well resourced. I think about how to authentically do the most good for the most people…
 
@@ -14767,6 +14811,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: reply
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2043237856701772150
+- `self_repost_count`: 1
 
 > @noMukh Maybe not where you were coming from but the eat the rich rhetoric is dangerous and out of control. What we need are compassion and out of the box thinking, not fuel on an already burning warehouse fire
 
@@ -14778,6 +14823,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: reply
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2043229479456125276
+- `self_repost_count`: 1
 
 > @noMukh I’m no billionaire but I am well resourced. I think about how to authentically do the most good for the most people with what I have. Generalizing about “the rich” is as accurate as generalizing about the poor.
 
@@ -14858,6 +14904,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2042886136138203419
 - `expanded_urls`: 1
+- `self_repost`: false
 
 > RT @sama: I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is:
 >
@@ -14871,6 +14918,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2042886001408815444
+- `self_repost`: false
 
 > RT @jaltma: Sam’s an amazing brother, dad, and friend. He’s always there for me and countless others when we need him most.
 >
@@ -15292,6 +15340,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2040155600898638021
+- `self_repost`: true
 
 > RT @SayitSalty: yes what?
 > yes, ma’am
@@ -15485,6 +15534,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `source`: https://x.com/SayitSalty/status/2038384936101831165
 - `media_references`: 1
 - `expanded_urls`: 1
+- `self_repost`: false
 
 > RT @MakerIO: A Step-by-Step Guide to Build a Low-Cost Drone using #ESP32
 >
@@ -15692,6 +15742,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: original
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2036487945860075901
+- `self_repost_count`: 1
 
 > the one who cooks decides when you eat
 
@@ -15934,6 +15985,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: original
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2035105092903608606
+- `self_repost_count`: 1
 
 > yes what?
 > yes, ma’am
@@ -15947,6 +15999,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2035103380583194900
+- `self_repost`: false
 
 > RT @GithubProjects: If you can’t explain it simply, you don’t understand it.
 >
@@ -16099,6 +16152,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2034776710387048942
+- `self_repost`: true
 
 > RT @SayitSalty: i make it disappear 3ways. i’ll do what i want thanks
 
@@ -16110,6 +16164,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2034776000043917766
+- `self_repost`: true
 
 > RT @SayitSalty: you wouldn’t know the divine if she sat on your face
 
@@ -16121,6 +16176,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2034775757256561110
+- `self_repost`: true
 
 > RT @SayitSalty: re: stolen IP
 > It’s *not* the AI or even the company ..
@@ -16331,6 +16387,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2032932575451472146
+- `self_repost`: true
 
 > RT @SayitSalty: Plato defines the fifth snd highest level of knowledge to be mystical—active, actual experience with the ultimate of ‘somet…
 
@@ -16845,6 +16902,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2029041953707573461
+- `self_repost`: true
 
 > RT @SayitSalty: @sama iterating publicly is hard and yet you keep showing up. that should and does count for a lot. keep going. it matters.
 
@@ -16867,6 +16925,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2029041282048508075
+- `self_repost`: false
 
 > RT @craigzLiszt: we need more people in the world that want to build cool shit
 
@@ -16878,6 +16937,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: reply
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2029039831947592048
+- `self_repost_count`: 1
 
 > @sama iterating publicly is hard and yet you keep showing up. that should and does count for a lot. keep going. it matters.
 
@@ -17169,6 +17229,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2027243618092920885
+- `self_repost`: false
 
 > RT @Hacksterio: Mario Schallner's WireClaw is a self-contained, locally autonomous AI agent on an ESP32. Talk to your board in plain langua…
 
@@ -18114,6 +18175,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: reply
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2021133506412527730
+- `self_repost_count`: 1
 
 > @sciencegirl if ur gonna be a bear be a grizzly
 
@@ -18529,6 +18591,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2019126575275602041
+- `self_repost`: false
 
 > RT @sierracatalina: robots should look like robots
 > this is still my position
@@ -18733,6 +18796,7 @@ public fragments, not retroactively edited into a coherent narrative.
 - `kind`: retweet
 - `canonical_status`: archive_fragment_not_canon
 - `source`: https://x.com/SayitSalty/status/2015996734103814395
+- `self_repost`: true
 
 > RT @SayitSalty: this vs that
 >

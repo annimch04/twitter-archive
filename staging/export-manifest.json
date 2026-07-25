@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-25T15:33:32.383418+00:00",
+  "generated_at_utc": "2026-07-25T18:47:20.374065+00:00",
   "source": "Twitter/X archive data/tweets.js only",
   "account_username": "SayitSalty",
   "active_tweets": 2948,
@@ -8,6 +8,15 @@
     "original": 1194,
     "reply": 1370,
     "self_thread_reply": 290
+  },
+  "repost_meta": {
+    "canonical_repost_events": 94,
+    "canonical_self_repost_events": 39,
+    "distinct_original_posts_self_reposted": 38,
+    "resolved_self_repost_events": 38,
+    "ambiguous_self_repost_events": 1,
+    "unresolved_self_repost_events": 0,
+    "interpretation": "Self-reposts are preserved as recursive resurfacing: a record of ideas returning, repeating, and gathering meaning across time."
   },
   "year_counts": {
     "2025": 1385,
