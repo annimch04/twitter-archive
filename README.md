@@ -45,7 +45,8 @@ Year folders contain sanitized active public posts only. Deleted posts, private 
 The initial archive is now also the baseline for a review-first incremental process.
 
 - `sync/state.json` records the current public cursor.
-- `tools/twitter_sync.py` compares a new public-post batch with that cursor and the full sanitized baseline.
+- `tools/x_safari_scraper.mjs` reads new posts from the already trusted Safari session.
+- `tools/twitter_sync.py` compares that public-post batch with the cursor and sanitized baseline.
 - New posts are written to a local review bundle under `.twitter-sync/`.
 - The dry-run command cannot mutate the published archive.
 - Direct messages and other private or excluded sources are rejected before normalization.
@@ -55,7 +56,7 @@ See [`sync/README.md`](sync/README.md) for the command, collector contract, priv
 ## Public Artifacts
 
 - `index.md`: entry point into the year-organized archive.
-- `2025/README.md` and `2026/README.md`: readable chronological exports grouped by month.
+- `2025/README.md` and `2026/README.md`: readable newest-first exports grouped by month.
 - `staging/tweets.sanitized.jsonl`: full sanitized active-post feed for tools, search, and future linking.
 - `staging/review.csv`: review sheet for theme assignment, linked work, and publication decisions.
 - `staging/media-map.json`: media references without copying private archive internals into the reading surface.

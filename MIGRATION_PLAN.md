@@ -64,7 +64,7 @@ The raw export may contain private account data, deleted posts, direct messages,
    - media posts
 5. Generate a sanitized review export for searching, theme tagging, and future linking.
 6. Publish the sanitized JSONL and CSV so the public archive contains the actual posts, not only the migration plan.
-7. Generate year-organized Markdown pages for readable chronology.
+7. Generate year-organized Markdown pages in newest-first order for readable chronology.
 8. Link selected public fragments to essays and reading pages over time.
 
 ## Published Bundle
