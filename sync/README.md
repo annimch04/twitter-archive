@@ -66,8 +66,9 @@ The scraper reads the baseline ID and timestamp from the sanitized archive,
 uses only the already open `x.com/SayitSalty` Safari tab, and stops after it
 reaches the exact cursor or verifies that multiple authored posts cross the
 saved timestamp boundary. The timestamp fallback accounts for X occasionally
-omitting an individual post from profile pagination. The saved post ID remains
-the inclusion filter.
+omitting an individual post from profile pagination. Pinned and reposted cards
+are excluded from boundary detection because X can surface their older IDs at
+the top of the timeline. The saved post ID remains the inclusion filter.
 
 It does not create a second browser profile, initiate a new X login, read or
 export cookies, or request private X surfaces. No API account, bearer token, or
