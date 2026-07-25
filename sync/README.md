@@ -22,9 +22,10 @@ published archival fragments
 
 ## Current Milestone
 
-`tools/twitter_sync.py` implements the executable collection and review milestone:
+`tools/x_safari_scraper.mjs` and `tools/twitter_sync.py` implement the executable collection and review milestone:
 
-- collects authored public posts from the official X API after the saved archive cursor;
+- attaches to Anni's already trusted Safari session;
+- scrapes authored public posts after the saved archive cursor;
 - reads a public-post batch, canonical JSONL, or Twitter archive `data/tweets.js`;
 - rejects deleted-post, direct-message, account-security, IP, contact, device, ad, and social-graph sources;
 - compares post IDs with the published sanitized archive;
@@ -49,17 +50,31 @@ python3 tools/twitter_sync.py dry-run \
   --input /path/to/twitter-archive/data/tweets.js
 ```
 
-Collect new public posts from X:
+Before the first run, Safari must allow local page automation:
+
+1. Keep the signed-in `x.com/SayitSalty` profile tab open in Safari.
+2. In Safari Settings, enable **Developer > Allow JavaScript from Apple Events**.
+3. When macOS asks whether the terminal may automate Safari, approve Safari access.
+
+Then collect new public posts:
 
 ```bash
-export X_BEARER_TOKEN='set-this-in-your-shell'
-python3 tools/twitter_sync.py collect
+./tools/x_scrape.sh scrape
 ```
 
-The command reads the baseline cursor from the sanitized archive and sends its
-last post ID as `since_id`. The token remains in the process environment and is
-never written to the repository or review bundle. X API access and reads may
-incur charges under the account's X API plan.
+The scraper reads the baseline cursor from the sanitized archive, uses only the
+already open `x.com/SayitSalty` Safari tab, and stops after it reaches that
+cursor. It does not create a second browser profile, initiate a new X login,
+read or export cookies, or request private X surfaces. No API account, bearer
+token, or per-post API payment is required.
+
+The Safari setting permits local Apple Events automation. The scraper narrows
+that capability to a tab whose URL contains `x.com/SayitSalty`; keep macOS
+Automation permissions limited to tools you trust.
+
+The wrapper finds a normal Node/Python installation or the bundled Codex
+runtime. `FIELDLIGHT_NODE` and `FIELDLIGHT_PYTHON` can be set explicitly on
+other machines.
 
 Review another collector batch:
 
@@ -85,7 +100,7 @@ A collector may provide a JSON list of public post objects, or this envelope:
 {
   "schema_version": 1,
   "source": {
-    "adapter": "official-api-or-other-public-post-collector",
+    "adapter": "trusted_safari_public_profile_scraper",
     "account_username": "SayitSalty",
     "collected_at_utc": "2026-07-23T00:00:00+00:00"
   },
@@ -93,7 +108,7 @@ A collector may provide a JSON list of public post objects, or this envelope:
 }
 ```
 
-Credentials, cookies, browser profiles, API tokens, and raw service responses do not belong in this repository.
+Credentials, cookies, browser profiles, and raw service responses do not belong in this repository.
 
 ## Privacy Boundary
 
@@ -112,7 +127,7 @@ These are not review categories. They are outside the architecture.
 
 ## Next Milestones
 
-1. Complete the first credentialed live collection and inspect the review bundle.
+1. Complete the first trusted-session scrape and inspect the review bundle.
 2. Add a separate, explicit publish command that requires an approved review sheet.
 3. Regenerate year pages and manifests after approval.
 4. Run the collector on a daily schedule.
