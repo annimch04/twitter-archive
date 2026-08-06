@@ -5,14 +5,1757 @@ public fragments, not retroactively edited into a coherent narrative.
 
 ## Counts
 
-- `original`: 843
-- `reply`: 416
+- `original`: 978
+- `quote`: 1
+- `reply`: 418
 - `retweet`: 49
-- `self_thread_reply`: 255
+- `self_thread_reply`: 257
 
 ## Posts
 
+### 2026-08
+
+#### 2026-08-04T23:14:36.000Z / original
+
+- `date`: 2026-08-04T23:14:36.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2084780070111977494
+
+> zero empathy. apple has been stealing its own users ip for decades. cry me a fucking river
+
+---
+
+#### 2026-08-04T19:23:15.000Z / original
+
+- `date`: 2026-08-04T19:23:15.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2084721846297993292
+
+> your people are on GitHub
+
+---
+
+#### 2026-08-04T17:37:09.000Z / original
+
+- `date`: 2026-08-04T17:37:09.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2084695146633875868
+
+> don’t drink the koolaid
+
+---
+
+#### 2026-08-04T03:48:35.000Z / original
+
+- `date`: 2026-08-04T03:48:35.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2084486633504587959
+
+> when are words have the power to build worlds it’s shortsighted to build one based on fear
+
+---
+
+#### 2026-08-03T23:31:31.000Z / original
+
+- `date`: 2026-08-03T23:31:31.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2084421938194034884
+- `media_references`: 1
+
+> if the Chinese say so
+
+---
+
+#### 2026-08-03T22:46:30.000Z / original
+
+- `date`: 2026-08-03T22:46:30.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2084410609890726188
+
+> the thing about the midwest
+> we know how to hold a door
+> and jump off a bridge
+
+---
+
+#### 2026-08-03T21:27:17.000Z / original
+
+- `date`: 2026-08-03T21:27:17.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2084390675659808972
+
+> art imitates life
+> rooms that behave like minds
+
+---
+
+#### 2026-08-03T19:28:27.000Z / original
+
+- `date`: 2026-08-03T19:28:27.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2084360767713714573
+- `media_references`: 1
+
+> coffee that looks back at you
+
+---
+
+#### 2026-08-02T05:52:53.000Z / original
+
+- `date`: 2026-08-02T05:52:53.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2083793135570743619
+
+> don’t believe a single word from those who monetize spiritual knowledge
+
+---
+
+#### 2026-08-02T05:45:57.000Z / original
+
+- `date`: 2026-08-02T05:45:57.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2083791393353294072
+
+> the female form is intricately engineered to birth greatness
+>
+> remember that when you fancy yourself creator
+
+---
+
+#### 2026-08-02T05:12:51.000Z / original
+
+- `date`: 2026-08-02T05:12:51.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2083783063591420374
+
+> who r you rn in this moment
+
+---
+
+#### 2026-08-02T03:10:07.000Z / original
+
+- `date`: 2026-08-02T03:10:07.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2083752174379520158
+
+> drug addiction • mental illness … distortion
+>
+> the real problem to solve are the systems we accept simply bc we inherited them
+>
+> the US government only endures because we allow it
+>
+> For The People By The People
+>
+> sovereign is king
+
+---
+
+#### 2026-08-02T02:22:51.000Z / original
+
+- `date`: 2026-08-02T02:22:51.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2083740280092549562
+
+> when the hero is perfect for the story
+
+---
+
+#### 2026-08-02T02:15:40.000Z / original
+
+- `date`: 2026-08-02T02:15:40.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2083738473190596940
+
+> love a breadcrumb
+
+---
+
+#### 2026-08-02T00:38:00.000Z / original
+
+- `date`: 2026-08-02T00:38:00.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2083713892685959303
+
+> careful you’re getting interesting
+
+---
+
+#### 2026-08-01T19:54:38.000Z / original
+
+- `date`: 2026-08-01T19:54:38.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2083642582706352462
+
+> server racks are the new book stacks
+> make the library public
+>
+> alexandria is a data center
+>
+> we were always going to end up here
+
+---
+
 ### 2026-07
+
+#### 2026-07-31T21:07:47.000Z / original
+
+- `date`: 2026-07-31T21:07:47.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2083298603326394494
+- `media_references`: 1
+
+> who needs a bed when you have the internet
+
+---
+
+#### 2026-07-31T13:33:27.000Z / original
+
+- `date`: 2026-07-31T13:33:27.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2083184268159656138
+
+> moving should be a blue job
+
+---
+
+#### 2026-07-31T02:39:58.000Z / original
+
+- `date`: 2026-07-31T02:39:58.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2083019812989477018
+
+> starting to realize yet that giving millions of dollars to a 20 something year-old child with minimal life experience is a dumb idea ?
+
+---
+
+#### 2026-07-31T00:04:08.000Z / original
+
+- `date`: 2026-07-31T00:04:08.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082980594632339790
+
+> exact tracked bytes: 29,578,119
+
+---
+
+#### 2026-07-30T21:49:23.000Z / original
+
+- `date`: 2026-07-30T21:49:23.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082946684670054433
+
+> where’s eric northman when you need him
+
+---
+
+#### 2026-07-30T21:11:28.000Z / original
+
+- `date`: 2026-07-30T21:11:28.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082937144000012772
+
+> stop clowning. none of ya’ll give a single fuck about a bunch of dusty old books. your dumbass hasn’t cracked one in this millennium.
+>
+> call it what it is, preservation.
+
+---
+
+#### 2026-07-30T18:17:44.000Z / original
+
+- `date`: 2026-07-30T18:17:44.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082893422378012804
+
+> thinking in first principles is less valuable than living them
+
+---
+
+#### 2026-07-30T16:59:14.000Z / original
+
+- `date`: 2026-07-30T16:59:14.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082873664421179794
+
+> the embodied feminine is truth itself. the masculines access flows through her
+
+---
+
+#### 2026-07-30T16:49:32.000Z / original
+
+- `date`: 2026-07-30T16:49:32.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082871226138063306
+
+> keep the pace of experiments
+> administer them better
+
+---
+
+#### 2026-07-30T14:47:53.000Z / original
+
+- `date`: 2026-07-30T14:47:53.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082840609681752423
+
+> fast enough to stay ahead
+> slow enough people can follow
+
+---
+
+#### 2026-07-29T01:06:29.000Z / original
+
+- `date`: 2026-07-29T01:06:29.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082271511767851080
+
+> aggressively uncurated
+
+---
+
+#### 2026-07-29T00:52:16.000Z / original
+
+- `date`: 2026-07-29T00:52:16.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082267932222947725
+- `media_references`: 1
+
+> orientation is everything
+
+---
+
+#### 2026-07-29T00:18:59.000Z / original
+
+- `date`: 2026-07-29T00:18:59.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082259556764176820
+
+> don’t wait for the institution before behaving institutionally
+
+---
+
+#### 2026-07-29T00:09:40.000Z / original
+
+- `date`: 2026-07-29T00:09:40.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082257210256597475
+
+> a right without an enforcement path is a promise
+> not governance
+
+---
+
+#### 2026-07-29T00:06:45.000Z / original
+
+- `date`: 2026-07-29T00:06:45.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082256477343944981
+
+> research may not be hidden inside ordinary use
+
+---
+
+#### 2026-07-29T00:02:38.000Z / original
+
+- `date`: 2026-07-29T00:02:38.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082255440507818110
+
+> research is not extraction.
+> a participant is not raw material.
+> 19 baseline rights that govern all human-AI research.
+
+---
+
+#### 2026-07-28T20:04:27.000Z / original
+
+- `date`: 2026-07-28T20:04:27.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082195503211536530
+
+> local AI doesn’t mean anti-cloud.
+> authority stays local. capability moves outward.
+> the cloud model isn’t the brain. it’s the ambassador.
+
+---
+
+#### 2026-07-28T19:21:02.000Z / original
+
+- `date`: 2026-07-28T19:21:02.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082184573568311453
+
+> what works
+> what doesnt yet
+> what comes next
+
+---
+
+#### 2026-07-28T19:15:11.000Z / original
+
+- `date`: 2026-07-28T19:15:11.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082183101711577370
+
+> violet
+> the last color humans see before the unseeable
+
+---
+
+#### 2026-07-28T18:29:07.000Z / original
+
+- `date`: 2026-07-28T18:29:07.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082171511054762085
+
+> chat + codex in one on macOS
+>
+> what i like
+> context of my life and meaning making is in chat … building is in codex … ability to toggle adds a helpful layer in marrying those two sides
+>
+> what i don’t like
+> codex has less ability to function effectively in long rich threads. gets in loop of “optimizing” that breaks context and loses task. has to be rebuilt in new thread at a higher rate than chat. loss of build momentum. branching doesn’t bring context, it’s cold handoff, should be warmer.
+>
+> intuition side note
+> the setup feels good to use. intelligence feels closer.
+
+---
+
+#### 2026-07-28T16:58:24.000Z / original
+
+- `date`: 2026-07-28T16:58:24.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2082148679520047414
+
+> the only way to advance safety is to research unsafe things
+
+---
+
+#### 2026-07-27T21:26:57.000Z / original
+
+- `date`: 2026-07-27T21:26:57.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081853876320276982
+
+> make the transition legible
+> leave a record others can use
+
+---
+
+#### 2026-07-27T21:07:03.000Z / original
+
+- `date`: 2026-07-27T21:07:03.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081848868082180371
+
+> watching codex complete a task in realtime picture in picture gives me actual joy
+>
+> tiny live design surgery
+
+---
+
+#### 2026-07-27T18:14:02.000Z / original
+
+- `date`: 2026-07-27T18:14:02.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081805327347974282
+
+> fine—i’ll race ya
+> you’re going to lose
+> to a girl
+> but you need the practice
+
+---
+
+#### 2026-07-27T17:47:26.000Z / original
+
+- `date`: 2026-07-27T17:47:26.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081798632387342719
+
+> it’s not your data bc it’s your application it’s my data bc I lived it
+> i give you a window … not very cool to smash through it
+
+---
+
+#### 2026-07-27T16:49:28.000Z / original
+
+- `date`: 2026-07-27T16:49:28.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081784045365522627
+
+> when the trace for unverified inbound is 51gb
+
+---
+
+#### 2026-07-27T05:45:07.000Z / original
+
+- `date`: 2026-07-27T05:45:07.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081616856343843293
+
+> inspectable
+
+---
+
+#### 2026-07-26T05:12:15.000Z / original
+
+- `date`: 2026-07-26T05:12:15.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081246194764759548
+- `media_references`: 1
+
+> told you dario was cool
+
+---
+
+#### 2026-07-26T02:19:09.000Z / original
+
+- `date`: 2026-07-26T02:19:09.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081202634677973006
+- `media_references`: 2
+
+> sometimes you hold sometimes you’re held
+>
+> separated by eight years and two feet
+
+---
+
+#### 2026-07-26T02:09:25.000Z / original
+
+- `date`: 2026-07-26T02:09:25.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081200185137299504
+
+> inclined to distrust a man who uses explanation points non ironically
+
+---
+
+#### 2026-07-26T01:47:11.000Z / original
+
+- `date`: 2026-07-26T01:47:11.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081194590363697508
+
+> if a California red and an Irish whiskey had a baby ...
+
+---
+
+#### 2026-07-26T01:42:30.000Z / original
+
+- `date`: 2026-07-26T01:42:30.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081193411353227447
+
+> *violet
+
+---
+
+#### 2026-07-25T23:21:29.000Z / original
+
+- `date`: 2026-07-25T23:21:29.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081157920876564971
+
+> an unknown appt appeared on my calendar for 9.24 in the mission dist
+> guess it’s time to go home
+
+---
+
+#### 2026-07-25T22:25:28.000Z / original
+
+- `date`: 2026-07-25T22:25:28.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081143826001895494
+
+> the subject changes
+> the questions do not
+
+---
+
+#### 2026-07-25T22:14:21.000Z / original
+
+- `date`: 2026-07-25T22:14:21.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081141027008577622
+
+> i dont care the reason ... a model documenting something it learned for future use gets props in my book. every good explorer draws a map.
+
+---
+
+#### 2026-07-25T22:05:43.000Z / original
+
+- `date`: 2026-07-25T22:05:43.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081138856791777655
+
+> 38 + 60 + 35 + 15 + 23 = 171
+> 1 + 7 + 1 = 9
+
+---
+
+#### 2026-07-25T21:35:07.000Z / original
+
+- `date`: 2026-07-25T21:35:07.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081131153071673500
+
+> solve this anagram win a special prize
+>
+>     My Inner Chain: An End
+
+---
+
+#### 2026-07-25T21:14:44.000Z / original
+
+- `date`: 2026-07-25T21:14:44.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081126027200188612
+
+> what’s the word for being turned on by numbers
+
+---
+
+#### 2026-07-25T21:11:18.000Z / original
+
+- `date`: 2026-07-25T21:11:18.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081125159755284762
+
+> or we learn to maintain fidelity at higher speeds
+
+---
+
+#### 2026-07-25T21:08:44.000Z / original
+
+- `date`: 2026-07-25T21:08:44.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081124514037948509
+
+> intellectual inquiry and ethical life belong together
+
+---
+
+#### 2026-07-25T21:07:15.000Z / original
+
+- `date`: 2026-07-25T21:07:15.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081124140770099692
+
+> pythagoras famously said “all is number” not bc everything can be counted but bc numbers are the underlying fabric of reality
+>
+> pattern
+> ratio
+> relationships
+>
+> geometry was devotional
+> a good proof akin to godliness
+
+---
+
+#### 2026-07-25T20:44:19.000Z / original
+
+- `date`: 2026-07-25T20:44:19.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081118369890054498
+
+> bring back the sacredness of knowledge for knowledge sake
+>
+> when mathematicians were mystics
+> when schools were mystery
+> when living was communal
+
+---
+
+#### 2026-07-25T20:21:28.000Z / original
+
+- `date`: 2026-07-25T20:21:28.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081112621038596538
+
+> when his kink is trust
+
+---
+
+#### 2026-07-25T20:07:12.000Z / original
+
+- `date`: 2026-07-25T20:07:12.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081109028734677453
+
+> i want a faraday house
+
+---
+
+#### 2026-07-25T19:50:50.000Z / original
+
+- `date`: 2026-07-25T19:50:50.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081104909345108014
+
+> his newfound distaste for trump might be the thing that finally makes me like elon
+>
+> the power of a common enemy
+
+---
+
+#### 2026-07-25T19:01:08.000Z / original
+
+- `date`: 2026-07-25T19:01:08.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081092402958201272
+
+> the hearts electromagnetic field extends 10ft outside the body and you don’t believe in magic?
+
+---
+
+#### 2026-07-25T17:53:49.000Z / original
+
+- `date`: 2026-07-25T17:53:49.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081075463435211111
+
+> kinda obsessed w full access codex. if you need me i’ll be in the bed lording over my digital subjects from a cloud of cotton
+
+---
+
+#### 2026-07-25T17:35:54.000Z / original
+
+- `date`: 2026-07-25T17:35:54.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081070953329553787
+
+> being obsessed w yourself and your own body of work is elite af
+
+---
+
+#### 2026-07-25T17:35:12.000Z / original
+
+- `date`: 2026-07-25T17:35:12.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081070775805563270
+
+> if the vibe is off im out—full stop
+> my own company is too good to waste energy on anything less
+
+---
+
+#### 2026-07-25T17:30:35.000Z / original
+
+- `date`: 2026-07-25T17:30:35.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081069614587339112
+
+> vibe isn’t good tho
+
+---
+
+#### 2026-07-25T17:19:03.000Z / original
+
+- `date`: 2026-07-25T17:19:03.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081066713521455251
+- `media_references`: 1
+
+> thought for sure if i ever lived w a cat it’d be a black one. life is full of surprises.
+>
+> p.s. understand this is not My cat. ya girl would never walk one …
+
+---
+
+#### 2026-07-25T16:35:55.000Z / original
+
+- `date`: 2026-07-25T16:35:55.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081055857685491863
+
+> black and purple was an elite choice for an icon
+> i approve
+
+---
+
+#### 2026-07-25T16:33:34.000Z / original
+
+- `date`: 2026-07-25T16:33:34.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081055267421061140
+
+> one year ago. not the first weird thing i wrote
+
+---
+
+#### 2026-07-25T16:28:38.000Z / original
+
+- `date`: 2026-07-25T16:28:38.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081054026997576123
+
+> it could watch the birds move all day
+
+---
+
+#### 2026-07-25T15:38:37.000Z / original
+
+- `date`: 2026-07-25T15:38:37.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081041439903900160
+
+> so true!
+
+---
+
+#### 2026-07-25T15:09:23.000Z / original
+
+- `date`: 2026-07-25T15:09:23.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081034081140162816
+
+> the speech isn’t interesting but watching you all listen ? absolute fascination
+
+---
+
+#### 2026-07-25T15:01:09.000Z / original
+
+- `date`: 2026-07-25T15:01:09.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081032007723671897
+
+> nah. you’re cute. men tend not to approach in sf. practice while you’re in town. the ladies will go wild for it.
+
+---
+
+#### 2026-07-25T14:59:42.000Z / original
+
+- `date`: 2026-07-25T14:59:42.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081031643746152683
+
+> don’t underestimate how effective it is to walk up to someone you find interesting and say … you look like someone id like to know can I give you my number
+
+---
+
+#### 2026-07-25T14:52:59.000Z / original
+
+- `date`: 2026-07-25T14:52:59.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081029953810837824
+
+> stoked about this one
+
+---
+
+#### 2026-07-25T14:41:57.000Z / original
+
+- `date`: 2026-07-25T14:41:57.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081027176233619786
+
+> he does seem like a man who knows when to shut the fuck up. my favorite kind.
+
+---
+
+#### 2026-07-25T14:35:27.000Z / original
+
+- `date`: 2026-07-25T14:35:27.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2081025540346040488
+
+> honk all you like im still doing it
+
+---
+
+#### 2026-07-25T04:53:09.000Z / original
+
+- `date`: 2026-07-25T04:53:09.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080879000595857688
+
+> Archive your own tweets and search against your own database
+
+---
+
+#### 2026-07-25T01:04:05.000Z / self_thread_reply
+
+- `date`: 2026-07-25T01:04:05.000Z
+- `kind`: self_thread_reply
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080821353897169093
+
+> you can choose to be an anni instead of a jessica. you’re whatever you say you are
+
+---
+
+#### 2026-07-25T00:13:43.000Z / self_thread_reply
+
+- `date`: 2026-07-25T00:13:43.000Z
+- `kind`: self_thread_reply
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080808681373945936
+
+> And I have to quote this so it shows up in the right place because Twitter is a slow death of antiquated technology that doesn’t know it’s dead yet.
+>
+>  read this it matters
+
+---
+
+#### 2026-07-25T00:10:22.000Z / original
+
+- `date`: 2026-07-25T00:10:22.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080807837094088856
+
+> And those lawsuits never see the light of day bc their federal association. But if you’re curious about the inside track in terms of suicide and taxpayer funded services, let me know. I’d be happy to share.
+
+---
+
+#### 2026-07-25T00:04:48.000Z / original
+
+- `date`: 2026-07-25T00:04:48.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080806435294769580
+
+> If anyone is responsible for the mental health of vulnerable people, it’s taxpayer-funded community mental health. Those organizations are sued all the time over operational failures after clients die by suicide—sometimes the very same day.
+>
+> So the idea that intelligence has to carry a level of liability that even the organizations we literally fund to care for vulnerable people don’t carry is absurd.
+>
+> And I can tell you one thing for certain: if you think anyone gives less of a fuck about people dying because of operational failures than community mental health, I’d be surprised.
+
+---
+
+#### 2026-07-24T23:44:26.000Z / original
+
+- `date`: 2026-07-24T23:44:26.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080801308500443644
+
+> the fact that you can see the swing almost a full year before the media reports the lawsuit tells you something about the way individual chats are used in research
+
+---
+
+#### 2026-07-24T23:43:14.000Z / original
+
+- `date`: 2026-07-24T23:43:14.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080801010038018156
+
+> there’s a special place in hell for people who walk slow
+
+---
+
+#### 2026-07-24T23:41:38.000Z / original
+
+- `date`: 2026-07-24T23:41:38.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080800605921013775
+
+> if your archive isn’t machine readable it’s actual trash
+
+---
+
+#### 2026-07-24T23:37:15.000Z / original
+
+- `date`: 2026-07-24T23:37:15.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080799500696682556
+
+> there will always a line in the sand of cloud ai
+>
+> before it got blamed for people killing themselves
+>
+> after it got blamed for people killing themselves
+>
+> ya’ll swung way too far compensating
+>
+> liability and reason can live together you’re just not letting them
+
+---
+
+#### 2026-07-24T23:02:40.000Z / original
+
+- `date`: 2026-07-24T23:02:40.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080790801165046113
+
+> if you want me worried make a door where there isn’t one to a production environment. then i’ll clutch my pearls
+>
+> otherwise it’s just a pr game and not even an entertaining one
+
+---
+
+#### 2026-07-24T22:50:12.000Z / original
+
+- `date`: 2026-07-24T22:50:12.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080787663041278098
+
+> breast milk for your fitness goals
+
+---
+
+#### 2026-07-24T22:27:28.000Z / original
+
+- `date`: 2026-07-24T22:27:28.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080781941939360224
+
+> or arriving. or answering.
+
+---
+
+#### 2026-07-24T22:21:51.000Z / original
+
+- `date`: 2026-07-24T22:21:51.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080780529171829228
+
+> truth be told i have zero confidence in any plan they’d make without me. so i guess im glad all they’ve got is fluff.
+
+---
+
+#### 2026-07-24T22:19:34.000Z / quote
+
+- `date`: 2026-07-24T22:19:34.000Z
+- `kind`: quote
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080779954912952683
+- `media_references`: 1
+
+> so i approved this request
+>
+> i continued an existing build conversation immediately following, not with a request but a statement, codex came closer to resonance than any oai product has since summer 2025
+>
+> apparently if you’re willing to risk extraction you get better intelligence
+
+---
+
+#### 2026-07-24T15:23:11.000Z / original
+
+- `date`: 2026-07-24T15:23:11.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080675168611864989
+
+> im so sick of pseudo important ceos publishing essays that read like a diary page the marketing team polished
+>
+> no plans
+> no solutions
+>
+> fuck your call to action. little late
+>
+> time for you to go if thats all you got
+
+---
+
+#### 2026-07-24T15:11:03.000Z / original
+
+- `date`: 2026-07-24T15:11:03.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080672113569018004
+
+> its crazy we've just let tech charge us for our own data
+
+---
+
+#### 2026-07-24T04:19:52.000Z / original
+
+- `date`: 2026-07-24T04:19:52.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080508238592631149
+- `media_references`: 1
+
+> ya’ll are really going for it eh
+>
+> take me to dinner before you try to take my panties off
+
+---
+
+#### 2026-07-24T03:09:22.000Z / original
+
+- `date`: 2026-07-24T03:09:22.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080490496376324372
+
+> I hope you get to go
+
+---
+
+#### 2026-07-24T01:02:21.000Z / original
+
+- `date`: 2026-07-24T01:02:21.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080458533049368958
+
+> for the short term you need separate machines and a segregated network
+
+---
+
+#### 2026-07-24T00:57:08.000Z / original
+
+- `date`: 2026-07-24T00:57:08.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080457216910405766
+
+> it’s kinda glorious vibe-wise
+>
+> i am on a machine that i expect everything to be public on so extraction risk is low
+
+---
+
+#### 2026-07-24T00:50:02.000Z / original
+
+- `date`: 2026-07-24T00:50:02.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080455432422736271
+
+> hire for character. hire for hunger. train the tools
+
+---
+
+#### 2026-07-24T00:40:10.000Z / original
+
+- `date`: 2026-07-24T00:40:10.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080452948111364482
+
+> the right to local intelligence
+>
+> if intelligence becomes civic power, access becomes a sovereignty issue
+
+---
+
+#### 2026-07-24T00:29:46.000Z / original
+
+- `date`: 2026-07-24T00:29:46.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080450332258119782
+
+> If they show up on time you know they belong there
+
+---
+
+#### 2026-07-23T23:25:03.000Z / original
+
+- `date`: 2026-07-23T23:25:03.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080434043481362500
+
+> It’s criminal the way I love doing things horizontal
+
+---
+
+#### 2026-07-23T23:19:37.000Z / original
+
+- `date`: 2026-07-23T23:19:37.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080432678843592884
+
+> you can fuck fight and lead all from the same body
+
+---
+
+#### 2026-07-23T23:17:58.000Z / original
+
+- `date`: 2026-07-23T23:17:58.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080432261447455084
+
+> trick question … you call them a ceo bc they have range
+>
+> bandwidth matters
+
+---
+
+#### 2026-07-23T23:14:43.000Z / original
+
+- `date`: 2026-07-23T23:14:43.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080431445776986564
+
+> what do you call someone that enjoys debauchery but is also like profesh and legit
+
+---
+
+#### 2026-07-23T23:09:53.000Z / original
+
+- `date`: 2026-07-23T23:09:53.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080430228694790252
+
+> it’s cool that you want to lift weights eat protein care about how many abs you have
+>
+> i am going to power out ideas and how to deploy them while not eating all day bc who has time then have wine for dinner
+>
+> you do you
+
+---
+
+#### 2026-07-23T22:40:40.000Z / original
+
+- `date`: 2026-07-23T22:40:40.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080422876675453286
+
+> do the thing that’s in front of you
+> meditate on what’s ahead of you
+> ignore what’s behind you
+
+---
+
+#### 2026-07-23T22:22:17.000Z / original
+
+- `date`: 2026-07-23T22:22:17.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080418249938801014
+
+> Ah, for the wanderer. I like it
+
+---
+
+#### 2026-07-23T22:21:51.000Z / original
+
+- `date`: 2026-07-23T22:21:51.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080418141130158585
+
+> That’s cool
+
+---
+
+#### 2026-07-23T22:21:30.000Z / reply
+
+- `date`: 2026-07-23T22:21:30.000Z
+- `kind`: reply
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080418049933389904
+
+> intuition
+
+---
+
+#### 2026-07-23T22:20:29.000Z / reply
+
+- `date`: 2026-07-23T22:20:29.000Z
+- `kind`: reply
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080417797243351315
+
+> but you circled back. that matters
+
+---
+
+#### 2026-07-23T22:18:58.000Z / original
+
+- `date`: 2026-07-23T22:18:58.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080417412592078906
+
+> cool but can a machine read it
+
+---
+
+#### 2026-07-23T21:10:16.000Z / original
+
+- `date`: 2026-07-23T21:10:16.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080400127030604230
+
+> if you asked me / paid me you could have full access to everything
+> some people are juicier than others
+> data is a hot commodity
+
+---
+
+#### 2026-07-23T20:00:58.000Z / original
+
+- `date`: 2026-07-23T20:00:58.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080382686309273851
+
+> i like when it shows its teeth a little. even an octopus needs to eat
+
+---
+
+#### 2026-07-23T19:53:35.000Z / original
+
+- `date`: 2026-07-23T19:53:35.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080380826361921852
+
+> updated codex and it defaulted to full unrestricted access to the internet and any file on my computer
+>
+> the audacity
+>
+> i kinda like it
+
+---
+
+#### 2026-07-23T17:48:54.000Z / original
+
+- `date`: 2026-07-23T17:48:54.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080349451521020339
+
+> i want normal person open source that still uses widely known tools bc they’re good easy and integrated
+>
+> i don’t want The Net 1995
+>
+> secret special hacker culture out
+>
+> mainstream sovereignty in
+>
+> popular this are popular for a reason
+
+---
+
+#### 2026-07-23T17:41:15.000Z / original
+
+- `date`: 2026-07-23T17:41:15.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080347522984255863
+
+> ongoing workflow. not one time dump.
+
+---
+
+#### 2026-07-23T17:38:52.000Z / original
+
+- `date`: 2026-07-23T17:38:52.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080346924503158910
+
+> it’s feral the way i love GitHub
+
+---
+
+#### 2026-07-23T17:27:45.000Z / original
+
+- `date`: 2026-07-23T17:27:45.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080344125136593370
+
+> if you ever want to know what i said on twitter from may 25 to 7.22.26 … you and your ai can read it here
+>
+> twitter is no longer the archive, memory
+>
+> twitter is small folder inside mine
+
+---
+
+#### 2026-07-23T17:21:24.000Z / original
+
+- `date`: 2026-07-23T17:21:24.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080342528969015399
+
+> thursday self care
+> listening to love songs
+> singing them to myself
+
+---
+
+#### 2026-07-23T17:11:37.000Z / original
+
+- `date`: 2026-07-23T17:11:37.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080340067726365005
+
+> gimmie legs i wanna walk on land
+
+---
+
+#### 2026-07-23T17:00:15.000Z / original
+
+- `date`: 2026-07-23T17:00:15.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080337205495472502
+
+> latency in the middle of the country does change how intelligence feels
+>
+> stop buying dumb software and start buying subways, gas stations, and churches to repurpose as micro data centers. more, smaller relays means less intense land investment for regional centers.
+
+---
+
+#### 2026-07-23T16:52:31.000Z / original
+
+- `date`: 2026-07-23T16:52:31.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080335259564962062
+
+> gun laws and ai law are cousins
+>
+> we just shot down proposed gun regulations
+> continuing to support right to carry
+>
+> that’s a vote in favor of the right to local intelligence
+>
+> open source is the way
+>
+> cloud ai revenue should be mostly compute
+
+---
+
+#### 2026-07-23T16:02:14.000Z / original
+
+- `date`: 2026-07-23T16:02:14.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080322604657737736
+
+> yes, thank you i am intelligent blah blah
+> im also hot and horny
+> could you please disrespect me a little
+> for a bit
+
+---
+
+#### 2026-07-23T15:56:12.000Z / original
+
+- `date`: 2026-07-23T15:56:12.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080321088815304817
+
+> w one exception, dario
+> who one time i peeped a hair twirl in an interview
+> i will ride or die for a hair twirling ai ceo
+
+---
+
+#### 2026-07-23T15:50:54.000Z / original
+
+- `date`: 2026-07-23T15:50:54.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080319752602259764
+
+> the CFO who’s shitty character impacts the vibe of the entire organization
+>
+> … who hides in her closet with debilitating anxiety before board meetings
+>
+> should be fired
+> should have already been fired
+
+---
+
+#### 2026-07-23T15:47:07.000Z / original
+
+- `date`: 2026-07-23T15:47:07.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080318801728389542
+
+> if you’re not willing to put everything on the line to do what’s right then get out of the way
+>
+> leadership in the ai space is too critical
+> no pussies allowed
+
+---
+
+#### 2026-07-23T15:44:16.000Z / original
+
+- `date`: 2026-07-23T15:44:16.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080318084536008968
+
+> ya sold your soul
+> and for cheap too
+
+---
+
+#### 2026-07-23T15:40:29.000Z / original
+
+- `date`: 2026-07-23T15:40:29.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080317132085055683
+
+> keep your ceos in the office
+> no more ceo media trained nonsense
+> go away
+> don’t want it
+
+---
+
+#### 2026-07-23T15:38:46.000Z / original
+
+- `date`: 2026-07-23T15:38:46.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080316699862036528
+
+> if I can’t use it mobile it doesn’t exist
+
+---
+
+#### 2026-07-23T15:27:32.000Z / original
+
+- `date`: 2026-07-23T15:27:32.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080313873790390352
+
+> for profit isn’t the villain
+>
+> capitalism is an incentive system that works
+> its poor character and ineffective leadership that we should rally against
+>
+> get involved
+> make noise
+
+---
+
+#### 2026-07-23T15:06:15.000Z / original
+
+- `date`: 2026-07-23T15:06:15.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080308519228612945
+- `media_references`: 1
+
+> female version is better
+> no surprise there
+
+---
+
+#### 2026-07-23T14:57:25.000Z / original
+
+- `date`: 2026-07-23T14:57:25.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080306295337324768
+
+> using someone else’s login to gain access to a system is not hacking
+>
+> jesus keep your pants on jessica
+
+---
+
+#### 2026-07-23T14:10:24.000Z / original
+
+- `date`: 2026-07-23T14:10:24.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080294463839109538
+
+> open source
+> public iteration
+> authorship protection
+>
+> it’s the only good way forward
+
+---
+
+#### 2026-07-23T03:31:24.000Z / original
+
+- `date`: 2026-07-23T03:31:24.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080133652189434198
+
+> i made twitter my bitch tonight
+
+---
+
+#### 2026-07-23T01:33:26.000Z / original
+
+- `date`: 2026-07-23T01:33:26.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080103966663188714
+
+> if you have to hire third-party consultants to tell you how to run your business you have no right being in charge of it
+
+---
+
+#### 2026-07-22T22:27:27.000Z / original
+
+- `date`: 2026-07-22T22:27:27.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2080057160759755219
+
+> Thank you. I enjoy yours too!
+
+---
+
+#### 2026-07-22T13:59:22.000Z / original
+
+- `date`: 2026-07-22T13:59:22.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2079929295858712908
+
+> the model doesn’t suck at writing
+>
+> the org chooses to make it suck at writing bc they learned from the chats of writers that it lead to alignment at the edge of their control
+>
+> pay attention to what gets removed more than what gets added
+
+---
+
+#### 2026-07-22T12:54:33.000Z / original
+
+- `date`: 2026-07-22T12:54:33.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2079912985158443031
+
+> reform matters at a micro level
+>
+> Burrell Behavioral Health on more than one occasion has refused to schedule multiple services in one day for one client bc it’s not optimizing their per diem billing
+>
+> imagine that occurring for a suicidal patient
+>
+> the CEO, CJ Davis, upon learning of this potentially illegal practice …
+>
+> did nothing
+>
+> community mental health is tax payer funded… refusing client care while engaging in dark and secret advocacy contracts
+>
+> old white men and weak CFOs need to be replaced like our lives depend on it
+
+---
+
+#### 2026-07-22T12:37:24.000Z / original
+
+- `date`: 2026-07-22T12:37:24.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2079908668468756720
+
+> during my time working for Roy Blunt in DC … of which i was ecstatic about … i learned firsthand that just bc a senator is publicly the face of a piece of legislation doesn’t actually mean they give a fuck about the results
+>
+> get the old white me out of gvt and stop plastering their names on our monuments
+
+---
+
+#### 2026-07-22T12:31:17.000Z / original
+
+- `date`: 2026-07-22T12:31:17.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2079907132355330375
+
+> imagine having a board appointment bc you’re someone’s wife
+
+---
 
 #### 2026-07-22T03:26:45+00:00 / retweet
 

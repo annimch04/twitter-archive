@@ -1,10 +1,16 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "account_username": "SayitSalty",
   "source_manifest": "archive/twitter/staging/export-manifest.json",
-  "post_count": 2948,
-  "last_archived_post_id": "2079770094838673885",
-  "last_archived_at_utc": "2026-07-22T03:26:45+00:00",
+  "post_count": 3088,
+  "last_archived_post_id": "2084780070111977494",
+  "last_archived_at_utc": "2026-08-04T23:14:36.000Z",
   "publication_mode": "human_review_required",
-  "private_data_policy": "excluded_by_architecture"
+  "private_data_policy": "excluded_by_architecture",
+  "last_publish": {
+    "published_at_utc": "2026-08-06T16:40:12.800349+00:00",
+    "new_public_posts": 140,
+    "provisional_repost_observations": 6,
+    "source_adapter": "trusted_safari_public_profile_scraper"
+  }
 }

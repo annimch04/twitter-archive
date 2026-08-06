@@ -31,4 +31,7 @@ python3 tools/twitter_sync.py dry-run \
   --input /path/to/public-post-batch.json
 ```
 
-The incremental command is dry-run only and writes to the Git-ignored `.twitter-sync/` directory. It does not change these published staging files.
+Collection writes to the Git-ignored `.twitter-sync/` directory and does not
+change these published staging files. After human review, the separate
+`twitter_sync.py publish --approve-all` command regenerates this directory and
+the human-readable year pages together.

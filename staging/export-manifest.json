@@ -1,13 +1,14 @@
 {
-  "generated_at_utc": "2026-07-25T18:47:20.374065+00:00",
-  "source": "Twitter/X archive data/tweets.js only",
+  "generated_at_utc": "2026-08-06T16:40:12.800349+00:00",
+  "source": "Twitter/X official archive plus approved public-profile incremental sync",
   "account_username": "SayitSalty",
-  "active_tweets": 2948,
+  "active_tweets": 3088,
   "kind_counts": {
+    "original": 1329,
+    "quote": 1,
+    "reply": 1372,
     "retweet": 94,
-    "original": 1194,
-    "reply": 1370,
-    "self_thread_reply": 290
+    "self_thread_reply": 292
   },
   "repost_meta": {
     "canonical_repost_events": 94,
@@ -20,9 +21,9 @@
   },
   "year_counts": {
     "2025": 1385,
-    "2026": 1563
+    "2026": 1703
   },
-  "media_references": 275,
+  "media_references": 286,
   "excluded_by_policy": [
     "data/deleted-tweets.js",
     "data/deleted-tweet-headers.js",
@@ -42,5 +43,13 @@
     "data/follower.js",
     "data/following.js"
   ],
-  "canonical_note": "Public posts are archival fragments, not canonical essays."
+  "canonical_note": "Public posts are archival fragments, not canonical essays.",
+  "incremental_sync": {
+    "latest_batch_published_at_utc": "2026-08-06T16:40:12.800349+00:00",
+    "latest_batch_collected_at_utc": "2026-08-06T16:28:58.772Z",
+    "latest_batch_new_posts": 140,
+    "source_adapter": "trusted_safari_public_profile_scraper",
+    "approval": "explicit_human_approval",
+    "canonical_status": "archive_fragment_not_canon"
+  }
 }

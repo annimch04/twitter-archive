@@ -22,7 +22,8 @@ published archival fragments
 
 ## Current Milestone
 
-`tools/x_safari_scraper.mjs` and `tools/twitter_sync.py` implement the executable collection and review milestone:
+`tools/x_safari_scraper.mjs` and `tools/twitter_sync.py` implement collection,
+review, and explicit publication:
 
 - attaches to Anni's already trusted Safari session;
 - scrapes authored public posts after the saved archive cursor;
@@ -32,9 +33,10 @@ published archival fragments
 - compares post IDs with the published sanitized archive;
 - stages only unseen public posts;
 - writes a local review bundle;
-- never changes the published archive.
+- changes the published archive only through a separate approval command.
 
-This is a live collector and dry-run reviewer. It is not a publisher.
+Publishing remains a separate, explicit act. The collector never publishes by
+itself.
 
 ## Commands
 
@@ -107,6 +109,22 @@ repost-review.csv
 sync-report.json
 ```
 
+After reviewing a bundle, publish its public posts with explicit approval:
+
+```bash
+python3 tools/twitter_sync.py publish \
+  --bundle .twitter-sync/review-YYYYMMDDTHHMMSSZ \
+  --approve-all
+```
+
+This regenerates the sanitized JSONL, review CSV, media map, year pages, index,
+manifest, and saved cursor as one operation. It also preserves profile-visible
+repost sightings in `archive/twitter/sync/repost-observations.jsonl`. Those
+sightings remain provisional and do not increase canonical repost counts.
+
+Approval imports the posts as archival fragments. It does not promote them to
+canonical essays or otherwise change their editorial status.
+
 ## Public Batch Contract
 
 A collector may provide a JSON list of public post objects, or this envelope:
@@ -166,11 +184,8 @@ These are not review categories. They are outside the architecture.
 
 ## Next Milestones
 
-1. Complete the first trusted-session scrape and inspect authored posts and repost observations.
-2. Add a separate, explicit publish command that requires an approved review sheet.
-3. Reconcile provisional repost observations against the next official archive export.
-4. Regenerate year pages and manifests after approval.
-5. Run the collector on a daily schedule.
-6. Link archival fragments and recurring self-reposts to essays by theme and provenance over time.
+1. Reconcile provisional repost observations against the next official archive export.
+2. Run the collector on a daily schedule.
+3. Link archival fragments and recurring self-reposts to essays by theme and provenance over time.
 
 The scheduler will automate collection and review preparation. It will not automate editorial authority.
