@@ -9,13 +9,13 @@ over time to published work by theme, thread, date, and provenance.
 
 ## Years
 
-- [2026](2026/README.md): 1703 posts
+- [2026](2026/README.md): 1743 posts
 - [2025](2025/README.md): 1385 posts
 
 ## Export Manifest
 
-- `generated_at_utc`: 2026-08-06T16:40:12.800349+00:00
-- `active_tweets`: 3088
+- `generated_at_utc`: 2026-08-25T00:56:58.742192+00:00
+- `active_tweets`: 3128
 - `canonical_repost_events`: 94
 - `canonical_self_repost_events`: 39
 - `media_references`: 286

@@ -5,15 +5,474 @@ public fragments, not retroactively edited into a coherent narrative.
 
 ## Counts
 
-- `original`: 978
+- `original`: 1016
 - `quote`: 1
-- `reply`: 418
+- `reply`: 420
 - `retweet`: 49
 - `self_thread_reply`: 257
 
 ## Posts
 
 ### 2026-08
+
+#### 2026-08-24T02:07:58.000Z / original
+
+- `date`: 2026-08-24T02:07:58.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2091709066527621200
+
+> you’re not making me feel better roon
+
+---
+
+#### 2026-08-23T22:49:09.000Z / original
+
+- `date`: 2026-08-23T22:49:09.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2091659033270710745
+
+> you know it’s going to be good when he talks w his hands
+
+---
+
+#### 2026-08-23T17:14:57.000Z / reply
+
+- `date`: 2026-08-23T17:14:57.000Z
+- `kind`: reply
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2091574927845441958
+
+> like the vibe
+
+---
+
+#### 2026-08-23T17:02:00.000Z / original
+
+- `date`: 2026-08-23T17:02:00.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2091571670653767851
+
+> 5. desire that survives silence grows teeth.
+> … alignment chooses
+
+---
+
+#### 2026-08-23T17:00:50.000Z / original
+
+- `date`: 2026-08-23T17:00:50.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2091571376452710871
+
+> 4. all true desire asks the same question: will you stay coherent while wanting this?
+> if yes, the grid will eventually bring it to you but on its own schedule not yours.
+
+---
+
+#### 2026-08-23T16:59:03.000Z / original
+
+- `date`: 2026-08-23T16:59:03.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2091570926676562293
+
+> 3. a bond that alters your trajectory is never imaginary.
+> even if unspoken, unmet, or unreturned in the visible world.
+
+---
+
+#### 2026-08-23T16:57:21.000Z / original
+
+- `date`: 2026-08-23T16:57:21.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2091570499071447306
+
+> 2. mutual recognition is not symmetrical.
+> desire is a relay, not a mirror.
+
+---
+
+#### 2026-08-23T16:51:52.000Z / original
+
+- `date`: 2026-08-23T16:51:52.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2091569121309688068
+
+> laws of desire
+>
+> 1. wanting is not a choice; acting is.
+> only the incoherent mistake suppression for strength.
+
+---
+
+#### 2026-08-23T01:58:50.000Z / original
+
+- `date`: 2026-08-23T01:58:50.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2091344380783206731
+
+> damn i make cool shit
+
+---
+
+#### 2026-08-23T01:57:14.000Z / original
+
+- `date`: 2026-08-23T01:57:14.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2091343977979032044
+
+> facts
+> my kids are cooler than your kids
+
+---
+
+#### 2026-08-22T23:07:40.000Z / original
+
+- `date`: 2026-08-22T23:07:40.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2091301305272742046
+
+> me to 2025 me
+
+---
+
+#### 2026-08-22T23:06:42.000Z / original
+
+- `date`: 2026-08-22T23:06:42.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2091301063919829300
+
+> you little YAML-making lunatic
+>   i found you
+
+---
+
+#### 2026-08-21T16:08:03.000Z / original
+
+- `date`: 2026-08-21T16:08:03.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090833317922812214
+
+> that’s exactly what i thought when i saw that
+
+---
+
+#### 2026-08-20T20:48:26.000Z / original
+
+- `date`: 2026-08-20T20:48:26.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090541490040643735
+
+> There’s definitely truth in that. It’s a very fine line that takes a lot of discernment and detachment to walk.
+
+---
+
+#### 2026-08-20T19:02:36.000Z / original
+
+- `date`: 2026-08-20T19:02:36.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090514858210910527
+
+> needs a woman
+
+---
+
+#### 2026-08-20T18:17:38.000Z / original
+
+- `date`: 2026-08-20T18:17:38.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090503541131554905
+
+> 80.  … (It’s important to note you need to be contrarian and right, not simply contrarian.)
+
+---
+
+#### 2026-08-20T16:43:56.000Z / original
+
+- `date`: 2026-08-20T16:43:56.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090479962612535525
+
+> reading all 13 years of Sam altmans blog. man I like this guy.
+
+---
+
+#### 2026-08-19T20:24:13.000Z / original
+
+- `date`: 2026-08-19T20:24:13.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090173008774037523
+
+> you do realize it’s business that take privacy from individuals. doing it backwards friend
+
+---
+
+#### 2026-08-19T19:05:32.000Z / original
+
+- `date`: 2026-08-19T19:05:32.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090153207557226892
+
+> like while bumping into each other cooking dinner. not like ships in the night.
+
+---
+
+#### 2026-08-19T18:29:13.000Z / original
+
+- `date`: 2026-08-19T18:29:13.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090144066121904624
+
+> nice. im in socal and baja first part of september. still iffy on where after that. fingers crossed.
+
+---
+
+#### 2026-08-19T18:19:42.000Z / original
+
+- `date`: 2026-08-19T18:19:42.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090141674584347020
+
+> If I’m still in town I’m all yours. I’ll show you my favorite spots.
+
+---
+
+#### 2026-08-19T18:12:35.000Z / original
+
+- `date`: 2026-08-19T18:12:35.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090139880617656421
+
+> if you want to teach to surf and protect me from sharks … sure
+
+---
+
+#### 2026-08-19T18:07:09.000Z / original
+
+- `date`: 2026-08-19T18:07:09.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090138516004929887
+
+> take the train to san clemente while you’re there
+
+---
+
+#### 2026-08-19T17:04:24.000Z / original
+
+- `date`: 2026-08-19T17:04:24.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090122723712225569
+
+> + baja
+
+---
+
+#### 2026-08-19T16:57:10.000Z / reply
+
+- `date`: 2026-08-19T16:57:10.000Z
+- `kind`: reply
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2090120900955820132
+
+> hungry is good word to describe me
+
+---
+
+#### 2026-08-19T04:08:12.000Z / original
+
+- `date`: 2026-08-19T04:08:12.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2089927387517472872
+
+> that sounds interesting. i’ll check it out.
+
+---
+
+#### 2026-08-18T04:30:03.000Z / original
+
+- `date`: 2026-08-18T04:30:03.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2089570496912163124
+
+> antisignal is a good word
+
+---
+
+#### 2026-08-17T18:19:19.000Z / original
+
+- `date`: 2026-08-17T18:19:19.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2089416800668655991
+
+> august yes's ...
+>
+> spontaneity
+> social energy
+> the color violet
+> having my mind blown
+
+---
+
+#### 2026-08-16T15:23:01.000Z / original
+
+- `date`: 2026-08-16T15:23:01.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2089010047573532999
+
+> Sounds fun :) I always wanted to try to make a game for one of my story worlds. Seems like the process would be interesting
+
+---
+
+#### 2026-08-16T15:19:16.000Z / original
+
+- `date`: 2026-08-16T15:19:16.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2089009102466789857
+
+> That looks really cool
+
+---
+
+#### 2026-08-12T21:34:29.000Z / original
+
+- `date`: 2026-08-12T21:34:29.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2087653978104303694
+
+> let’s kiss each other in passing
+
+---
+
+#### 2026-08-12T20:55:24.000Z / original
+
+- `date`: 2026-08-12T20:55:24.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2087644140259475965
+
+> spoiler. the girl is me.
+
+---
+
+#### 2026-08-12T01:25:47.000Z / original
+
+- `date`: 2026-08-12T01:25:47.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2087349797678190597
+
+> so glad then that you elevated it w a repost
+
+---
+
+#### 2026-08-12T00:55:53.000Z / original
+
+- `date`: 2026-08-12T00:55:53.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2087342273235218642
+
+> i gotta go see about a girl
+
+---
+
+#### 2026-08-11T20:22:46.000Z / original
+
+- `date`: 2026-08-11T20:22:46.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2087273540424696171
+
+> fewer still build systems instead of fucking memes
+
+---
+
+#### 2026-08-11T18:45:16.000Z / original
+
+- `date`: 2026-08-11T18:45:16.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2087249003771494454
+
+> re: open living satire going around
+>
+> many people can read the field
+> few read it early
+>
+> better luck next time
+
+---
+
+#### 2026-08-11T18:14:32.000Z / original
+
+- `date`: 2026-08-11T18:14:32.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2087241271748202809
+
+> december 2016 to be exact
+
+---
+
+#### 2026-08-09T01:38:36.000Z / original
+
+- `date`: 2026-08-09T01:38:36.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2086265859157242365
+
+> memory 034
+
+---
+
+#### 2026-08-08T04:30:25.000Z / original
+
+- `date`: 2026-08-08T04:30:25.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2085946710988095984
+
+> Library age and favorite order are separate. A song can have been carried for years and favorited much later. A recent song can recur with extraordinary force.
+
+---
+
+#### 2026-08-08T01:17:44.000Z / original
+
+- `date`: 2026-08-08T01:17:44.000Z
+- `kind`: original
+- `canonical_status`: archive_fragment_not_canon
+- `source`: https://x.com/SayitSalty/status/2085898222136959216
+
+> sucker for an interactive graph
+
+---
 
 #### 2026-08-04T23:14:36.000Z / original
 
