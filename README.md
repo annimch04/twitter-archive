@@ -42,6 +42,12 @@ archive/twitter/
 
 Year folders contain sanitized active public posts only. Deleted posts, private messages, ad data, account/security data, contacts, IP logs, and device records are excluded by policy.
 
+## Context Notes
+
+Retrospective notes connect specific archived posts with later developments while preserving the original post records and dates.
+
+- [“you’re going to need this”: May 2025 acquisition, March 2026 recurrence, and the later OpenAI / Hugging Face incident](context/2026-03-17-malicious-agent-groups-and-hugging-face.md) — verified self-email and attachment identity, exact public posts, sourced timeline, and comparison; recorded September 9, 2026.
+
 ## Incremental Sync
 
 The initial archive is now also the baseline for a review-first incremental process.
