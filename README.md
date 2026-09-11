@@ -1,6 +1,6 @@
-# Twitter / X Archive — Private Repository
+# Twitter / X Archive
 
-Private home for Anni McHenry’s Twitter/X archive and its contextual lineage records.
+Public home for Anni McHenry’s Twitter/X archive and its contextual lineage records.
 
 - [Archive guide](archive/twitter/README.md)
 - [Year index](archive/twitter/index.md)
@@ -14,3 +14,7 @@ The complete tracked `archive/twitter` directory was transferred from the local 
 Older sanitized Twitter exports remain in public-writing’s previously published history. New archive work belongs here. This repository contains the existing sanitized export, metadata, and context notes; the original Proton email and other source material outside that directory remain in their original locations.
 
 Run tools from this repository’s root. Review bundles remain ignored under `.twitter-sync/`.
+
+## Visibility correction — September 11, 2026
+
+This repository is public, as intended by the author. The migration initially created it as private; that setting was corrected. Its scope remains sanitized public posts and public context derivatives. Original emails, DMs, deleted-post exports and account/security records are not included.
